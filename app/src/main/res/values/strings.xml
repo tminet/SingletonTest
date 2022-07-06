@@ -1,0 +1,22 @@
+<resources>
+    <string name="appName">Singleton Test</string>
+
+    <string name="screenTitleRoom">Room</string>
+    <string name="screenTitleDataStore">DataStore</string>
+
+    <string name="navigateBack">Navigate Back</string>
+
+    <string name="navigateToRoom">Navigate to Room</string>
+    <string name="navigateToDataStore">Navigate to DataStore</string>
+
+    <string name="switchAppTheme">Switch App Theme</string>
+    <string name="darkMode">Dark Mode</string>
+    <string name="lightMode">Light Mode</string>
+
+    <string name="loading">Loading…</string>
+    <string name="emptyTasks">Looks like you have no Tasks yet</string>
+    <string name="taskDescription">Task description…</string>
+    <string name="saveTask">Save Task</string>
+    <string name="finishTask">Finish Task</string>
+
+</resources>
